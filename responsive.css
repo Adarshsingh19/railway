@@ -1,0 +1,36 @@
+@media(max-width:480px ) {
+  
+    .headingh1 {
+      font-size:40px;
+      padding:40px;
+          
+      
+    }
+    
+    h2 {
+      font-size:20px;
+    }
+    img {
+      height:150px;
+      width:275px;
+    }
+  }
+  
+  @media(max-width:480px ) {
+    
+    .headingh1 {
+      font-size:40px;
+      padding:40px;
+          
+      
+    }
+    
+    h2 {
+      font-size:20px;
+    }
+    img {
+      height:150px;
+      width:275px;
+    }
+  }
+  
